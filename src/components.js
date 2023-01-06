@@ -5,6 +5,6 @@ import Photoshop from '@/components/photoshop';
 import Sketch from '@/components/sketch';
 import Twitter from '@/components/twitter';
 
-const components = [Chrome, Photoshop, Sketch, Twitter];
+export const components = [Chrome, Photoshop, Sketch, Twitter];
 
-export { Chrome, Photoshop, Sketch, Twitter };
+export default { Chrome, Photoshop, Sketch, Twitter };
