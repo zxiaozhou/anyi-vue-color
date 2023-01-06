@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2023-01-06)
+
+
+### Features
+
+* add keyboard navigation support for swatches and twitter ([a0ff7aa](https://github.com/zxiaozhou/anyi-vue-color/commit/a0ff7aa7cc0afe450e01416250cd61d512093dd2))
+* add standard-version gen changelog ([43cb18b](https://github.com/zxiaozhou/anyi-vue-color/commit/43cb18b00b5a9f3d4a2921db6b5dcb98b47e81a8))
+* explicitly export the type as module ([5fbf273](https://github.com/zxiaozhou/anyi-vue-color/commit/5fbf27390cb3cf7be5fedc6e8dcda3c9e9317636))
+* pre-commit add lint-staged ([d0e7ddb](https://github.com/zxiaozhou/anyi-vue-color/commit/d0e7ddbe7dd0ed29ce13ba23af8c766df33798cb))
+* pre-commit add lint-staged ([2c63fff](https://github.com/zxiaozhou/anyi-vue-color/commit/2c63fffcb15eefc278e3c6b2ab54622238664730))
+* pre-commit add lint-staged ([31602b5](https://github.com/zxiaozhou/anyi-vue-color/commit/31602b5d06c561392115b3d6b43f91aca9449b34))
+
+
+### Bug Fixes
+
+* change yarn to npm ([2ef2928](https://github.com/zxiaozhou/anyi-vue-color/commit/2ef292831439c407de8d2218a0df0c6f3c74dd23))
+* esm result exclude vue module ([d61b120](https://github.com/zxiaozhou/anyi-vue-color/commit/d61b120542fbf531b22a73dbfe814b99bc4ad828))
+* excluded dependencies module when build libs ([6b0d860](https://github.com/zxiaozhou/anyi-vue-color/commit/6b0d860c2b2f6d07f31c195b4a93c1e7a58fc941))
+* **hue:** emit color on mouseup just like saturation does ([9d8c798](https://github.com/zxiaozhou/anyi-vue-color/commit/9d8c798728dfd985dac3f5ef8331adadf5de929c))
+* repair production mode component import error ([c6aa16f](https://github.com/zxiaozhou/anyi-vue-color/commit/c6aa16f638a72beffdf493f531cd85da85ecdfa5))
+* replace CommonJS package ([6f1292f](https://github.com/zxiaozhou/anyi-vue-color/commit/6f1292f3fe95fee68aff30e3ea45e5799247b2a1))
+* sketch presetColors alpha not work ([93ec741](https://github.com/zxiaozhou/anyi-vue-color/commit/93ec7413e6785e19b31e5c3760001cbd3e5be91c))
+* tinycolor(...).isValid is not a function ([7831c54](https://github.com/zxiaozhou/anyi-vue-color/commit/7831c54654a702b587f03007a6d4539287cdb91d))
+* update dev serve.js ([915233d](https://github.com/zxiaozhou/anyi-vue-color/commit/915233dc2c6602aac00d7acbf4142dfb2b2f9112))
+* update github_token ([2c78f05](https://github.com/zxiaozhou/anyi-vue-color/commit/2c78f055498aba5815625bf677f3b76a9fc37299))
+* update peerDependencies vue version ([22d57bf](https://github.com/zxiaozhou/anyi-vue-color/commit/22d57bf7a5fc789a357dd7f2c43870a15db48d38))
+* upgrade node version ([2ecf716](https://github.com/zxiaozhou/anyi-vue-color/commit/2ecf716ea1995c4af524bb7df7149464dfb20875))
+* use @ctrl/tinycolor replace tinycolor2 ([09bb612](https://github.com/zxiaozhou/anyi-vue-color/commit/09bb612c50467fda655e8b6b36c16d7b120263d6))
+
 ## [1.3.0](https://github.com/ckpack/vue-color/compare/v1.2.4...v1.3.0) (2022-11-30)
 
 
