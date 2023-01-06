@@ -23,13 +23,8 @@
   <div id="app">
     <div class="color-wrapper" :style="{'background-color': typeof colors === 'object' ? colors.hex8 : colors}">
       <Chrome v-model="colors"></Chrome>
-      <Compact v-model="colors"></Compact>
-      <Grayscale v-model="colors"></Grayscale>
-      <Material v-model="colors"></Material>
       <Photoshop v-model="colors"></Photoshop>
       <Sketch v-model="colors"></Sketch>
-      <Slider v-model="colors"></Slider>
-      <Swatches v-model="colors"></Swatches>
       <Twitter v-model="colors"></Twitter>
     </div>
   </div>
